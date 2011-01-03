@@ -1,0 +1,20 @@
+{
+  "name": "commonjs-package-template",
+  "mappings": {
+    "dojo": "https://github.com/dojo/dojo/zipball/v1.6.0alpha1"
+  },
+  "description": "Template for CommonJS packages",
+  "licenses": [
+     {
+         "type": "AFLv2.1",
+         "url": "http://trac.dojotoolkit.org/browser/dojo/trunk/LICENSE#L43"
+     },
+     {
+         "type": "BSD",
+         "url": "http://trac.dojotoolkit.org/browser/dojo/trunk/LICENSE#L13"
+     }
+  ],
+  "bugs": "http://bugs.dojotoolkit.org/",
+  "keywords": ["Template"],
+  "homepage": "http://dojotoolkit.org/"
+}
