@@ -17,5 +17,12 @@
   "bugs": "http://bugs.dojotoolkit.org/",
   "keywords": ["Template"],
   "homepage": "http://dojotoolkit.org/",
+  "dependencies": {
+    "dojo": "1.7.0b3"
+  },
+  "directories": {
+    "lib": "."
+  },
+  "main": "./demo",
   "icon": "http://dojofoundation.org/images/icons/5.png"
 }

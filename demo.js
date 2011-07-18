@@ -3,5 +3,5 @@ define(["dojo"], function(dojo){
 		var helloDiv = dojo.create("div", {
 			innerHTML: "Hello World"
 		}, document.body);
-	}, 1000);
+	}, 500);
 });
