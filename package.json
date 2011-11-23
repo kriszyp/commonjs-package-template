@@ -1,7 +1,8 @@
 {
   "name": "commonjs-package-template",
   "mappings": {
-    "dojo": "https://github.com/dojo/dojo/zipball/v1.6.0alpha2"
+    "dojo": "https://github.com/dojo/dojo/zipball/1.7.0",
+    "dijit": "https://github.com/dojo/dijit/zipball/1.7.0"
   },
   "description": "Template for CommonJS packages",
   "licenses": [
@@ -18,11 +19,9 @@
   "keywords": ["Template"],
   "homepage": "http://dojotoolkit.org/",
   "dependencies": {
-    "dojo": "1.7.0b3"
+    "dojo": "1.7.0",
+    "dijit": "1.7.0"
   },
-  "directories": {
-    "lib": "."
-  },
-  "main": "./demo",
+  "main": "./component",
   "icon": "http://dojofoundation.org/images/icons/5.png"
 }
